@@ -1,4 +1,4 @@
-# githubPublication
+# Embleema
 This repository contains 16 modules related to the smart contracts and associated .js modules. It also contains .xlsx with module description.
 
 © 2017 Embleema Inc.
